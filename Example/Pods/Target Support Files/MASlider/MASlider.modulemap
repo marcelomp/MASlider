@@ -1,0 +1,6 @@
+framework module MASlider {
+  umbrella header "MASlider-umbrella.h"
+
+  export *
+  module * { export * }
+}
